@@ -2,6 +2,7 @@
 
 ## Fish Regression Presentation + Analysis:
 Goal: Train ML models to predict fish weight using fish dimensions.
+
 Presentation: https://drive.google.com/file/d/1RQdMNXuNuA_S70IWeoN-lcFDl8531FU5/view?usp=sharing
 
 ### Summary:
@@ -16,6 +17,7 @@ Results:
 
 ## CIFAR10 Presentation (CNN and GAN) + Analysis:
 Goal: Train deep learning models to recognize and generate images of everyday objects using the cifar10 dataset.
+
 Presentation: https://drive.google.com/file/d/1oL_LgHW-jE-OJzlXchB5OHOiRLKzGNmi/view?usp=sharing
 
 ### Summary:
