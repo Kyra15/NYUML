@@ -30,9 +30,9 @@ Generative Adversarial Network (GAN)
 
 Results:
 - CNN Image Classification
--   Training ≈ 93%		
--   Testing ≈ 90%	
+  - Training ≈ 93%
+  - Testing ≈ 90%	
 - GAN Image Generation
--   Generator produced grayscale images with recognizable shapes but poor definition.
--   Images lacked clarity due to limited epochs and GPU constraints.
--   More training time and computational power would likely improve realism.
+  - Generator produced grayscale images with recognizable shapes but poor definition.
+  - Images lacked clarity due to limited epochs and GPU constraints.
+  - More training time and computational power would likely improve realism.
